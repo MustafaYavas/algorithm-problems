@@ -4,7 +4,7 @@
 | # | Problem | Solution |
 :--------|:--------:|:--------:
 | 1. | **[Append And Delete](https://www.hackerrank.com/challenges/append-and-delete/problem?isFullScreen=true)** | **[AppendAndDelete.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/AppendAndDelete.js)**
-| 2. | **[Apple And Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)** | **[AppendAndOrange.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/AppendAndOrange.js)**
+| 2. | **[Apple And Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)** | **[AppleAndOrange.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/AppleAndOrange.js)**
 | 3. | **[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)** | **[AVeryBigSum.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/AVeryBigSum.js)** 
 | 4. | **[Between Two sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)** | **[BetweenTwoSets.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/BetweenTwoSets.js)** 
 | 5. | **[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)** | **[BillDivison.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/BillDivison.js)**   
@@ -18,6 +18,7 @@
 | 13. | **[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)** | **[MiniMaxSum.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/MiniMaxSum.js)** 
 | 14. | **[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)** | **[NumberLineJumps.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/NumberLineJumps.js)**
 | 15. | **[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)** | **[PlusMinus.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/PlusMinus.js)**
-| 16. | **[Simple Sum Array](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)** | **[SimpleSumArray.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/SimpleArraySum.js)** 
-| 17. | **[Staircase](https://www.hackerrank.com/challenges/staircase?isFullScreen=true)** | **[Staircase.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/Staircase.js)**
-| 18. | **[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)** | **[TimeConversion.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/TimeConversion.js)**
+| 16. | **[Sales By Match](https://www.hackerrank.com/challenges/sock-merchant?isFullScreen=true)** | **[SalesByMatch.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/SalesByMatch.js)**
+| 17. | **[Simple Sum Array](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)** | **[SimpleSumArray.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/SimpleArraySum.js)** 
+| 18. | **[Staircase](https://www.hackerrank.com/challenges/staircase?isFullScreen=true)** | **[Staircase.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/Staircase.js)**
+| 19. | **[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)** | **[TimeConversion.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/TimeConversion.js)**
