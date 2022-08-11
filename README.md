@@ -28,3 +28,4 @@
 | 23. | **[Staircase](https://www.hackerrank.com/challenges/staircase?isFullScreen=true)** | **[Staircase.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/Staircase.js)**
 | 24. | **[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)** | **[TheHurdleRace.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/TheHurdleRace.js)**
 | 25. | **[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)** | **[TimeConversion.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/TimeConversion.js)**
+| 26. | **[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)** | **[UtopianTree.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/UtopianTree.js)**
