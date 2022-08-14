@@ -31,3 +31,4 @@
 | 26. | **[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)** | **[TheHurdleRace.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/TheHurdleRace.js)**
 | 27. | **[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)** | **[TimeConversion.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/TimeConversion.js)**
 | 28. | **[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)** | **[UtopianTree.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/UtopianTree.js)**
+| 29. | **[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)** | **[ViralAdvertising.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/ViralAdvertising.js)**
