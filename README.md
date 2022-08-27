@@ -30,6 +30,7 @@
 | 25. | **[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true)** | **[LibraryFine.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/LibraryFine.js)** 
 | 26. | **[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds?isFullScreen=true)** | **[MigratoryBirds.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/MigratoryBirds.js)** 
 | 27. | **[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)** | **[MiniMaxSum.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/MiniMaxSum.js)** 
+| 27. | **[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem?isFullScreen=true)** | **[ModifiedKaprekarNumbers.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/ModifiedKaprekarNumbers.js)** 
 | 28. | **[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)** | **[NumberLineJumps.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/NumberLineJumps.js)**
 | 29. | **[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)** | **[PlusMinus.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/PlusMinus.js)**
 | 30. | **[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true)** | **[RepeatedString.js](https://github.com/MustafaYavas/algorithm-problems/blob/master/RepeatedString.js)**
